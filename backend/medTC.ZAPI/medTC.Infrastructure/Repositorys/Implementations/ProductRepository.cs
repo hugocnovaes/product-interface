@@ -29,6 +29,7 @@ namespace medTC.Infrastructure.Repositorys.Implementations
                 Id = p.Id,
                 Name = p.Name,
                 Description = p.Description,
+                Value = p.Value,
                 LastUpdatedOn = p.LastUpdatedOn.ToLocalTime()
             });
 
@@ -58,16 +59,18 @@ namespace medTC.Infrastructure.Repositorys.Implementations
                 Id = product.Id,
                 Name = product.Name,
                 Description = product.Description,
+                Value = product.Value,
                 LastUpdatedOn = product.LastUpdatedOn
             };
         }
 
-        public async Task<bool> InsertProduct(string name, string description)
+        public async Task<bool> InsertProduct(string name, string description, decimal value)
         {
             var product = new Product
             {
                 Name = name,
                 Description = description,
+                Value = value,
                 LastUpdatedOn = DateTime.UtcNow
             };
             await _context.Product.AddAsync(product);
@@ -84,6 +87,7 @@ namespace medTC.Infrastructure.Repositorys.Implementations
 
             product.Name = productDto.Name;
             product.Description = productDto.Description;
+            product.Value = productDto.Value;
             product.LastUpdatedOn = DateTime.UtcNow;
 
             _context.Product.Update(product);

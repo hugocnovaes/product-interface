@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\medtc.zapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\medtc.zapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\controllers\\product\\commands\\insert\\insertproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\controllers\\product\\commands\\insert\\insertproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\controllers\\product\\commands\\getone\\getoneproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\controllers\\product\\commands\\getone\\getoneproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\controllers\\product\\commands\\insert\\insertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\controllers\\product\\commands\\insert\\insertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72C057-942C-4E75-8DA7-2E673122412A}|medTC.Infrastructure\\medTC.Infrastructure.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.infrastructure\\repositorys\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF72C057-942C-4E75-8DA7-2E673122412A}|medTC.Infrastructure\\medTC.Infrastructure.csproj|solutionrelative:medtc.infrastructure\\repositorys\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72C057-942C-4E75-8DA7-2E673122412A}|medTC.Infrastructure\\medTC.Infrastructure.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.infrastructure\\repositorys\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF72C057-942C-4E75-8DA7-2E673122412A}|medTC.Infrastructure\\medTC.Infrastructure.csproj|solutionrelative:medtc.infrastructure\\repositorys\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}|medTC.Domain\\medTC.Domain.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}|medTC.Domain\\medTC.Domain.csproj|solutionrelative:medtc.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72C057-942C-4E75-8DA7-2E673122412A}|medTC.Infrastructure\\medTC.Infrastructure.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.infrastructure\\repositorys\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF72C057-942C-4E75-8DA7-2E673122412A}|medTC.Infrastructure\\medTC.Infrastructure.csproj|solutionrelative:medtc.infrastructure\\repositorys\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\controllers\\product\\commands\\getall\\getallproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\controllers\\product\\commands\\getall\\getallproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\medtc.zapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\medtc.zapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\controllers\\product\\commands\\getone\\getoneproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|solutionrelative:medtc.zapi\\controllers\\product\\commands\\getone\\getoneproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}|medTC.ZAPI\\medTC.ZAPI.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\medtc.zapi\\medtc.zapi\\controllers\\product\\commands\\delete\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,36 +58,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "medTC.ZAPI",
+              "DocumentIndex": 1,
+              "Title": "InsertProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductRequest.cs",
+              "RelativeDocumentMoniker": "medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductRequest.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductRequest.cs",
+              "RelativeToolTip": "medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:51:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Infrastructure\\Repositorys\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "medTC.Infrastructure\\Repositorys\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Infrastructure\\Repositorys\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "medTC.Infrastructure\\Repositorys\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:51:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "medTC.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "medTC.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:48:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Infrastructure\\Repositorys\\DTOS\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "medTC.Infrastructure\\Repositorys\\DTOS\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Infrastructure\\Repositorys\\DTOS\\ProductDTO.cs",
+              "RelativeToolTip": "medTC.Infrastructure\\Repositorys\\DTOS\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:47:46.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "medTC.ZAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Startup.cs",
+              "RelativeToolTip": "medTC.ZAPI\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:16:28.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "medTC.ZAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "medTC.ZAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T19:13:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Infrastructure\\Repositorys\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "medTC.Infrastructure\\Repositorys\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.Infrastructure\\Repositorys\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "medTC.Infrastructure\\Repositorys\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:18:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "medTC.ZAPI.csproj",
               "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\medTC.ZAPI.csproj",
               "RelativeDocumentMoniker": "medTC.ZAPI\\medTC.ZAPI.csproj",
               "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\medTC.ZAPI.csproj",
               "RelativeToolTip": "medTC.ZAPI\\medTC.ZAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-30T07:04:18.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GetAllProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\GetAll\\GetAllProductHandler.cs",
               "RelativeDocumentMoniker": "medTC.ZAPI\\Controllers\\Product\\Commands\\GetAll\\GetAllProductHandler.cs",
               "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\GetAll\\GetAllProductHandler.cs",
               "RelativeToolTip": "medTC.ZAPI\\Controllers\\Product\\Commands\\GetAll\\GetAllProductHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:50:43.13Z"
+              "WhenOpened": "2025-09-30T06:50:43.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\Delete\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "medTC.ZAPI\\Controllers\\Product\\Commands\\Delete\\DeleteProductHandler.cs",
@@ -71,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "GetOneProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\GetOne\\GetOneProductHandler.cs",
               "RelativeDocumentMoniker": "medTC.ZAPI\\Controllers\\Product\\Commands\\GetOne\\GetOneProductHandler.cs",
@@ -83,13 +203,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InsertProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductHandler.cs",
               "RelativeDocumentMoniker": "medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductHandler.cs",
               "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\medTC.ZAPI\\medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductHandler.cs",
               "RelativeToolTip": "medTC.ZAPI\\Controllers\\Product\\Commands\\Insert\\InsertProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T06:30:52.953Z",
               "EditorCaption": ""

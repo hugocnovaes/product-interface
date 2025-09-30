@@ -138,6 +138,10 @@
           "description": {
             "type": "string",
             "nullable": true
+          },
+          "value": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false
@@ -156,6 +160,10 @@
           "description": {
             "type": "string",
             "nullable": true
+          },
+          "value": {
+            "type": "number",
+            "format": "double"
           },
           "lastUpdatedOn": {
             "type": "string",

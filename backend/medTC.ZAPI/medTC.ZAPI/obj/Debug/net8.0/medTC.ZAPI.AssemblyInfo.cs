@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("medTC.ZAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4580c30803feb177850040c663b40157d1e3a5fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b74738521a25bae815ac0294f4807324c80795a")]
 [assembly: System.Reflection.AssemblyProductAttribute("medTC.ZAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("medTC.ZAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

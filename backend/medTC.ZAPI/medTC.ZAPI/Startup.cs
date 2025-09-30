@@ -58,7 +58,7 @@ namespace medTC.ZAPI
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "BaseSPI.ZAPI v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "medTC.ZAPI v1"));
             }
 
             app.UseCors(e => e.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());

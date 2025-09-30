@@ -11,7 +11,7 @@ namespace medTC.Infrastructure.Repositorys.Interfaces
     {
         public Task<IEnumerable<ProductDTO>> GetAllProducts();
         public Task<ProductDTO> GetOneProduct(long id);
-        public Task<bool> InsertProduct(string name, string description);
+        public Task<bool> InsertProduct(string name, string description, decimal value);
         public Task<bool> UpdateProduct(ProductDTO product);
         public Task<bool> DeleteProduct(long id);
     }

@@ -12,7 +12,7 @@ namespace medTC.ZAPI.Controllers.Product.Commands.Insert
         }
         public async Task<InsertProductResponse> Handle(InsertProductRequest request, CancellationToken cancellationToken)
         {
-            var response = await _repository.InsertProduct(request.Name, request.Description);
+            var response = await _repository.InsertProduct(request.Name, request.Description, request.Value);
 
             return new InsertProductResponse()
             {
