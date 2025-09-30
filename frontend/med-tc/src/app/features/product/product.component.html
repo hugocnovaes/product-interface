@@ -1,0 +1,69 @@
+<div class="container">
+  <div class="connect-container" *ngIf="!isConnected">
+    <button class="connect-btn" (click)="connect()">Conectar</button>
+  </div>
+
+  <div *ngIf="isConnected">
+    <h1>Cadastro de Produtos</h1>
+    <button class="add-btn" (click)="openModal()">Adicionar</button>
+
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Descrição</th>
+          <th>Valor</th>
+          <th>Ações</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <td>{{ product.id }}</td>
+          <td>{{ product.name }}</td>
+          <td>{{ product.description }}</td>
+          <td>{{ product.value | currency:'BRL' }}</td>
+          <td class="actions">
+            <button class="edit-btn" (click)="editProduct(product)">Editar</button>
+            <button class="delete-btn" (click)="openDeleteModal(product)">Deletar</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="modal-overlay" *ngIf="isModalOpen">
+  <div class="modal">
+    <h2>{{ currentProduct.id ? 'Editar Produto' : 'Adicionar Produto' }}</h2>
+    <form (ngSubmit)="saveProduct()">
+      <div class="form-group">
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name" [(ngModel)]="currentProduct.name" required>
+      </div>
+      <div class="form-group">
+        <label for="description">Descrição:</label>
+        <input type="text" id="description" name="description" [(ngModel)]="currentProduct.description" required>
+      </div>
+      <div class="form-group">
+        <label for="value">Valor:</label>
+        <input type="number" id="value" name="value" [(ngModel)]="currentProduct.value" required>
+      </div>
+      <div class="modal-actions">
+        <button type="submit" class="save-btn">Salvar</button>
+        <button type="button" class="cancel-btn" (click)="closeModal()">Cancelar</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="modal-overlay" *ngIf="isDeleteModalOpen">
+    <div class="modal">
+      <h2>Confirmar Exclusão</h2>
+      <p>Você tem certeza que deseja deletar o produto "{{ productToDelete?.name }}"?</p>
+      <div class="modal-actions">
+        <button class="delete-btn" (click)="confirmDelete()">Sim, Deletar</button>
+        <button class="cancel-btn" (click)="closeDeleteModal()">Cancelar</button>
+      </div>
+    </div>
+  </div>
