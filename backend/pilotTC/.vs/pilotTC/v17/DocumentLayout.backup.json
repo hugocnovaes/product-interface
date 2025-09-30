@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\products\\productroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\products\\productroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\products\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\products\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\pilottc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\pilottc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|c:\\users\\hugon\\source\\reposprivate\\product-interface\\backend\\pilottc\\pilottc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EFFFC08-FE1B-4426-BFC1-65E473407637}|pilotTC\\pilotTC.csproj|solutionrelative:pilottc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Products\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "pilotTC\\Products\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Products\\AddProductRequest.cs",
+              "RelativeToolTip": "pilotTC\\Products\\AddProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:40:55.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pilotTC",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\pilotTC.csproj",
+              "RelativeDocumentMoniker": "pilotTC\\pilotTC.csproj",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\pilotTC.csproj",
+              "RelativeToolTip": "pilotTC\\pilotTC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T00:39:08.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "pilotTC\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Products\\Product.cs",
+              "RelativeToolTip": "pilotTC\\Products\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:52:01.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "pilotTC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "pilotTC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T23:35:11.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Products\\ProductRoutes.cs",
+              "RelativeDocumentMoniker": "pilotTC\\Products\\ProductRoutes.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Products\\ProductRoutes.cs",
+              "RelativeToolTip": "pilotTC\\Products\\ProductRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:19:04.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Program.cs",
+              "RelativeDocumentMoniker": "pilotTC\\Program.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Program.cs",
+              "RelativeToolTip": "pilotTC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:06:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "pilotTC\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\hugon\\source\\reposPrivate\\product-interface\\backend\\pilotTC\\pilotTC\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "pilotTC\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:05:59.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

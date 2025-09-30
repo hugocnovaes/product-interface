@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medTC.ZAPI", "medTC.ZAPI\medTC.ZAPI.csproj", "{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E773993-CFA5-4E8C-B8FB-EC976F66C45A} = {7E773993-CFA5-4E8C-B8FB-EC976F66C45A}
+		{FF72C057-942C-4E75-8DA7-2E673122412A} = {FF72C057-942C-4E75-8DA7-2E673122412A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medTC.Infrastructure", "medTC.Infrastructure\medTC.Infrastructure.csproj", "{FF72C057-942C-4E75-8DA7-2E673122412A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E773993-CFA5-4E8C-B8FB-EC976F66C45A} = {7E773993-CFA5-4E8C-B8FB-EC976F66C45A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medTC.Domain", "medTC.Domain\medTC.Domain.csproj", "{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8755935-4D4E-48E4-8C93-432A8AA5AC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF72C057-942C-4E75-8DA7-2E673122412A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF72C057-942C-4E75-8DA7-2E673122412A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF72C057-942C-4E75-8DA7-2E673122412A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF72C057-942C-4E75-8DA7-2E673122412A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E773993-CFA5-4E8C-B8FB-EC976F66C45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55077D75-C279-4C20-99C2-A90C4E82387A}
+	EndGlobalSection
+EndGlobal

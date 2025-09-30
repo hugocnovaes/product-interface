@@ -1,0 +1,12 @@
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.AssemblyInfoInputs.cache
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.AssemblyInfo.cs
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.sourcelink.json
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\bin\Debug\net8.0\medTC.Domain.deps.json
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\bin\Debug\net8.0\medTC.Domain.dll
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\bin\Debug\net8.0\medTC.Domain.pdb
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.dll
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\refint\medTC.Domain.dll
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\medTC.Domain.pdb
+C:\Users\hugon\source\reposPrivate\product-interface\backend\medTC.ZAPI\medTC.Domain\obj\Debug\net8.0\ref\medTC.Domain.dll
