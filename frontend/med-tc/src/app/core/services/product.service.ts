@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { map, Observable } from 'rxjs';
 import { Product } from '../models/product.model';
+import { environment } from '../../../environments/environment';
 
 interface ApiResponse {
   products: Product[];
@@ -14,7 +15,7 @@ interface ApiResponse {
   providedIn: 'root'
 })
 export class ProductService {
-  private apiUrl = `https://localhost:44371/api/product`;
+  private apiUrl = environment.apiUrl + `/product`;
 
   constructor(private http: HttpClient) { }
 
